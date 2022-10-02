@@ -1,0 +1,15 @@
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\bin\Debug\net6.0\DZ_Task 50.exe
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\bin\Debug\net6.0\DZ_Task 50.deps.json
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\bin\Debug\net6.0\DZ_Task 50.runtimeconfig.json
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\bin\Debug\net6.0\DZ_Task 50.dll
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\bin\Debug\net6.0\DZ_Task 50.pdb
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\DZ_Task 50.csproj.AssemblyReference.cache
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\DZ_Task 50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\DZ_Task 50.AssemblyInfoInputs.cache
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\DZ_Task 50.AssemblyInfo.cs
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\DZ_Task 50.csproj.CoreCompileInputs.cache
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\DZ_Task 50.dll
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\refint\DZ_Task 50.dll
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\DZ_Task 50.pdb
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\DZ_Task 50.genruntimeconfig.cache
+C:\Users\Vinsent\Desktop\Урок 7_Знакомство с языком программирования С#\DZ_Task 50\obj\Debug\net6.0\ref\DZ_Task 50.dll
